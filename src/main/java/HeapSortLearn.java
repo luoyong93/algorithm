@@ -8,6 +8,7 @@
  */
 public class HeapSortLearn {
     public  void heapify(int[] arr,int index,int heapsize) {
+        int a= 1;
 
     }
     public static void main(String[] args) {
